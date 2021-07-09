@@ -1,0 +1,27 @@
+{
+    "data": {
+        "student_datails": {
+            "name": "Agoo",
+            "id_number": 123124124,
+            "kra_pin": 21412412,
+            "email_address": "e@g.net",
+            "huduma_number": 124124124,
+            "profile_url": "url"
+        },
+        "accademic_details": {
+            "institution_name": "Rongo",
+            "institution_id": 1,
+            "date_of_graduation": "123124",
+            "course": "comp"
+        },
+        "accademic_paper": {
+            "file_url": "fielurl",
+            "verified": true
+        }
+    },
+    "prev_block": {
+        "hash": "",
+        "file_name": ""
+    },
+    "doc_hash": "b6692202eac1a20ad7905c6eaec35f08"
+}
